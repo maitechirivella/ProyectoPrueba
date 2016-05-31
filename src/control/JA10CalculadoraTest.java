@@ -17,6 +17,7 @@ public class JA10CalculadoraTest {
      * @param args the command line arguments
      */
     public static void main(String[] args) {
+        System.out.println("hago modificacion");
         VentanaCalculadora calculadora = new VentanaCalculadora();
         calculadora.setVisible(true);
     }
